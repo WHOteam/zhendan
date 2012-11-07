@@ -1,0 +1,9 @@
+Package: teamrpack
+Type: Package
+Title: Obesity
+Version: 1.0
+Date: 2012-11-07
+Author: Zhendan Zhu
+Maintainer: Michael <yourfault@somewhere.net> SHannon <shannonc@jhu.edu>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
